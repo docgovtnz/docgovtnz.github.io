@@ -5,9 +5,9 @@ slug: /
 
 *Promoting Open Source and Open Data at the Department of Conservation*
 
-In July 2016, Land Information New Zealand (LINZ) released guidelines, known as NZGOAL-SE, to help government agencies apply open source licences to their software[^1]. This was done as an extension to the existing New Zealand Government Open Access and Licensing (NZGOAL) framework [^2], itself created to guide government agencies in releasing and licensing government material for re-use by others.
+In July 2016, Land Information New Zealand (LINZ) released guidelines, known as NZGOAL-SE, to help government agencies apply open source licences to their software [^1]. This was done as an extension to the existing New Zealand Government Open Access and Licensing (NZGOAL) framework [^2], itself created to guide government agencies in releasing and licensing government material for re-use by others.
 
-Consistent with this framework and commitments made by the New Zealand government[^3][^4], the Department of Conservation | Te Papa Atawhai is committed to providing software source code (open source) and open data to the public under suitable licences. This portal provides an entry point to much of our open source code and links to places where our open data can be found.
+Consistent with this framework and commitments made by the New Zealand government [^3] [^4], the Department of Conservation | Te Papa Atawhai is committed to providing software source code (open source) and open data to the public under suitable licences. This portal provides an entry point to much of our open source code and links to places where our open data can be found.
 
 ## Useful Resources
 
