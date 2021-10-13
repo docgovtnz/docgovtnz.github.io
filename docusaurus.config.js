@@ -28,7 +28,7 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://github.com/docgovtnz/docgovtnz.github.io',
+          href: 'https://github.com/docgovtnz',
           label: 'GitHub',
           position: 'right',
         },
