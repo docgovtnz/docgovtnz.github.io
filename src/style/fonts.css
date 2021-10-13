@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'Zilla Slab';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./fonts/ZillaSlab-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Clear Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(./fonts/ClearSans-Regular.ttf) format('truetype');
+}

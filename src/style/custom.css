@@ -1,0 +1,85 @@
+/* stylelint-disable docusaurus/copyright-header */
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #194036;
+  --ifm-color-primary-dark: #163a31;
+  --ifm-color-primary-darker: #15362e;
+  --ifm-color-primary-darkest: #112d26;
+  --ifm-color-primary-light: #1b463b;
+  --ifm-color-primary-lighter: #1d4a3e;
+  --ifm-color-primary-lightest: #205346;
+  --ifm-code-font-size: 95%;
+  --ifm-font-family-base:'Clear Sans', sans-serif;
+  --ifm-heading-font-weight: 400;
+  --ifm-link-color: var(--ifm-color-primary);
+  --ifm-navbar-height: 5.2rem;
+  --ifm-spacing-horizontal: 2rem;
+  --ifm-background-color: #ffffff;
+  --ifm-navbar-background-color: var(--ifm-color-primary);
+  --ifm-navbar-link-color: #eeeeee;
+  --ifm-navbar-link-hover-color: #ffffff;
+}
+
+body {
+  border-top: 20px solid #ffc51d;
+}
+
+h1 {
+  font-family: 'Zilla Slab', 'Courier New', monospace;
+}
+
+.navbar__brand {
+  height: 3rem;
+}
+
+.hero--primary {
+  background: url(../../static/img/tanja-zollner-YDeQtjjTz5g-unsplash.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero__container {
+  background-color: rgba(255,255,255,0.8);
+  color: #575757;
+  padding: var(--ifm-spacing-vertical) var(--ifm-spacing-horizontal);
+  display: inline-block;
+}
+
+.hero__container p {
+  margin: 0;
+}
+
+.hero__title {
+  margin-bottom: 0;
+}
+
+.markdown a {
+  text-decoration: underline;  
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(72, 77, 91);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+.feature {
+  margin-top: var(--ifm-spacing-vertical);
+  margin-bottom: var(--ifm-spacing-vertical);
+}
+
+.navbar-sidebar {
+  background-color: var(--ifm-background-color);
+}
+
+.navbar-sidebar__brand {
+  background-color: var(--ifm-navbar-background-color);
+}
