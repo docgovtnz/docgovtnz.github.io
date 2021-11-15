@@ -46,7 +46,6 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          sidebarCollapsible: false,
           editUrl:
             'https://github.com/docgovtnz/docgovtnz.github.io/edit/main/',
         },
