@@ -16,6 +16,13 @@ module.exports = {
 
     {
       type: 'category',
+      label: 'Processes',
+      collapsible: false,
+      items: ['processesPublishing',],
+    },
+
+    {
+      type: 'category',
       label: 'Security',
       collapsible: false,
       items: [{
