@@ -20,6 +20,11 @@ As part of our open source journey, we also have made use of the following resou
 * [Responsible Disclosure Guidelines](https://www.msd.govt.nz/about-msd-and-our-work/tools/responsible-disclosure-guidelines.html), Ministry of Social Development | Te Manatū Whakahiato Ora
 * [Open source release of NZ COVID Tracer](https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-resources-and-tools/nz-covid-tracer-app/open-source-release-nz-covid-tracer), Ministry of Health | Manatū Hauora
 
+## Portal Documentation Disclaimer
+
+Note that documentation on this portal is provided with the intent of being a useful resource, however it is written by technical staff on a 'best-effort' basis and is not guaranteed to be accurate and/or free of errors. See the formal [Disclaimer](./legalDisclaimer.md) for more details.
+
+Having said that, if you spot errors and/or have suggestions for improvement, feel free to open a pull request on the documentation portal repository.
 
 [^1]:NZGOAL software extension policy, New Zealand Government CC BY 4.0, <https://www.data.govt.nz/manage-data/policies/nzgoal/nzgoal-se>
 [^2]:https://www.data.govt.nz/manage-data/policies/nzgoal/
