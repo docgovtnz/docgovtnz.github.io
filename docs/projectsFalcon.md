@@ -39,7 +39,3 @@ These components are described in more detail further down the page.
 The source code is provided as-is, with certain sections redacted/removed for security reasons.
 
 The nature of a serverless-style project is that cloud configuration is deeply intertwined with the back-end source code and highly-specific to one cloud provider, but it may be possible to abstract certain elements for use elsewhere.
-
-## Code/repository structure
-
-*Further details coming soon.*
