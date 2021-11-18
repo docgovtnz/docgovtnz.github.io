@@ -41,8 +41,6 @@ The (in)famous [Party Parrot](https://cultofthepartyparrot.com/) is based on the
 ## Code
 * <https://github.com/docgovtnz/dusky>: Monorepo with front-end and back-end
 
-## About the code
-
 The source code is provided as-is, with certain sections redacted/removed for security reasons. 
 
 The normal process for a DOC developer would involve setting up their local machine to synchronise with a remote gateway containing the data—being a NoSQL type architecture, there are assumptions built into the code about certain data structures being present. However, due to the sensitive nature of some of the kākāpō data it is not possible to provide a copy of this dataset.
