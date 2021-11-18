@@ -36,7 +36,7 @@ module.exports = {
       type: 'category',
       label: 'Projects',
       collapsible: false,
-      items: ['projectsDusky', 'projectsFalcon'],
+      items: ['projects/dusky', 'projects/falcon'],
     },
 
     {
