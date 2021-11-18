@@ -7,15 +7,15 @@ slug: /projects/dusky
 
 The national Kākāpō Database (Dusky) was developed in 2018 to replace an Access database solution that had reached the end of its life. Being a critically endangered parrot, kākāpō are confined to pest-free offshore islands which may not have a reliable internet connection. Thus, the challenge of Dusky was enabling offline use, whilst still maintaining consistency of data across the different islands.
 
-![Dusky in action, showing a test bird's weight graph](./media/dusky.png)
-
 To do this, a solution employing Couchbase and Couchbase Sync Gateway was implemented. A copy of Dusky is run in "the cloud", and various laptops have the database loaded locally. The laptops are able to be used offline, and when they are connected to the internet Dusky will synchronise any changes made (bi-directionally).
 
 In addition to Couchbase and Couchbase Sync Gateway, Dusky uses the Angular and Spring Boot frameworks for the front-end and back-end respectively.
 
 ## Features
 
-The data captured by Dusky is quite specific to the needs of kākāpō conservation. In this instance, every single kākāpō is known and tracked which means there is a large amount of information is known about a relatively small number of individuals—compared to other bird data projects, where a little bit of information is known about a relatively large population.
+The data captured by Dusky is quite specific to the needs of kākāpō conservation. In this instance, every single kākāpō is known and tracked which means there is a large amount of information known about a relatively small number of individuals—compared to other bird data projects, where a little bit of information is known about a relatively large population.
+
+![Dusky in action, showing a test bird's weight graph](./media/dusky.png)
 
 As such, the database is built to capture lots of different types of information including:
 

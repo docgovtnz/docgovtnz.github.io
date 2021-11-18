@@ -9,8 +9,6 @@ The National Banding Office needed a system for managing the various datasets th
 
 Since the Department and its predecessors have been issuing bands, there have been over two million bands issued—meaning the system needed to be capable of handling some quite significant volumes of information.
 
-![FALCON in action, showing the bird sighting report page](./media/falcon.png)
-
 The application is broken into three major components:
 * **Prerequisite infrastructure**: AWS CloudFormation configuration for configuring supporting services (including authentication, alerting and static web hosting)
 * **Data service**: Serverless-based back-end
@@ -28,6 +26,8 @@ These components are described in more detail further down the page.
 * Public-facing form for observations of banded birds
 * Migration of decades of historical band records
 
+![FALCON in action, showing the bird sighting report page](./media/falcon.png)
+
 ## Code
 
 * <https://github.com/docgovtnz/birdbanding-infra>: Supporting infrastructure configuration
@@ -38,7 +38,7 @@ These components are described in more detail further down the page.
 
 The source code is provided as-is, with certain sections redacted/removed for security reasons.
 
-The nature of a serverless-style project is that cloud configuration is deeply intertwined with the back-end source code and highly-specific to one cloud provider, but it may be able to be abstract certain elements for use elsewhere.
+The nature of a serverless-style project is that cloud configuration is deeply intertwined with the back-end source code and highly-specific to one cloud provider, but it may be possible to abstract certain elements for use elsewhere.
 
 ## Code/repository structure
 
