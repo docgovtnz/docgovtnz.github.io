@@ -7,11 +7,11 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Policies and Processes',
+    title: 'Policies and Documentation',
     imageUrl: 'img/undraw_at_work.svg',
     description: (
       <>
-        Our approach to open source and open data.
+        Our approach to open source, and technical notes about our projects.
       </>
     ),
     buttonText: 'View Policies',

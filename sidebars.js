@@ -34,6 +34,13 @@ module.exports = {
 
     {
       type: 'category',
+      label: 'Projects',
+      collapsible: false,
+      items: ['projectsDusky',],
+    },
+
+    {
+      type: 'category',
       label: 'Legal',
       collapsible: false,
       items: ['legalLicences', 'legalDisclaimer', 'legalCopyright',]

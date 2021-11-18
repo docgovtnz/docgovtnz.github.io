@@ -18,7 +18,7 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Policies',
+          label: 'Policies & Documentation',
           position: 'left',
         },
         {to: 'repositories', label: 'Code Repositories', position: 'left'},
