@@ -31,7 +31,7 @@ const Error = () => (
 
 const Repository = ({ repository }) => {
   return (
-    <div className="feature col col--4">
+    <div className="feature col col--6">
       <div className="card">
         <div className="card__header">
           {repository.owner && <span className="owner text-muted">{repository.owner.login}</span>}
@@ -70,7 +70,6 @@ const Repository = ({ repository }) => {
 const Repositories = ({ repositories }) => {
   return (
     <div className="Repositories">
-      <h2>{`@${GITHUB_USER}`}</h2>
       <div className="row">
         {repositories.items.map(repository => (
           <Repository key={repository.id} repository={repository} />
