@@ -18,7 +18,7 @@ module.exports = {
       type: 'category',
       label: 'Processes',
       collapsible: false,
-      items: ['processesPublishing',],
+      items: ['processesNewProject', 'processesExistingProject',],
     },
 
     {

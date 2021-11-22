@@ -1,6 +1,6 @@
 ---
-title: Publishing Existing Code
-slug: /publishing-existing
+title: Publishing Existing Projects
+slug: /existing-projects
 ---
 
 The following page contains some informal suggestions for the publishing of legacy/pre-existing code bases.
